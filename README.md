@@ -25,7 +25,7 @@ We appreciate your contributions! 🚀
 
 ## License
 
-This project is licensed under the [MIT License]() - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/neerajcodes888/Emojis-for-Github/tree/main?tab=MIT-1-ov-file) - see the [LICENSE](https://github.com/neerajcodes888/Emojis-for-Github/tree/main?tab=MIT-1-ov-file) file for details.
 
 ---
 
