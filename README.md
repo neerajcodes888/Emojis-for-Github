@@ -6,11 +6,11 @@ This repository contains a handy guide to GitHub emojis in a markdown file. Feel
 
 ## Emojis.md
 
-Check out the [emojis.md](emojis.md) file for a comprehensive list of GitHub emojis and their corresponding codes.
+Check out the [emojis.md](https://github.com/neerajcodes888/Emojis-for-Github/blob/main/Emojis.md) file for a comprehensive list of GitHub emojis and their corresponding codes.
 
 ## Usage
 
-1. **Explore Emojis**: Open the [emojis.md](emojis.md) file to discover a variety of emojis available on GitHub.
+1. **Explore Emojis**: Open the [emojis.md](https://github.com/neerajcodes888/Emojis-for-Github/blob/main/Emojis.md) file to discover a variety of emojis available on GitHub.
 2. **Copy and Paste**: Simply copy the emoji code and paste it into your markdown, issues, pull requests, or any GitHub-related text.
 
 ## Contributing
@@ -18,7 +18,7 @@ Check out the [emojis.md](emojis.md) file for a comprehensive list of GitHub emo
 If you have new emojis to add or want to suggest improvements, feel free to contribute! Follow these steps:
 
 1. Fork the repository
-2. Add your changes to the [emojis.md](emojis.md) file
+2. Add your changes to the [emojis.md](https://github.com/neerajcodes888/Emojis-for-Github/blob/main/Emojis.md) file
 3. Submit a pull request
 
 We appreciate your contributions! 🚀
