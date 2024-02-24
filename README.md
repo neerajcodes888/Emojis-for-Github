@@ -1,5 +1,7 @@
 # GitHub Emojis 
 
+![Emojis-for-Github](https://socialify.git.ci/neerajcodes888/Emojis-for-Github/image?description=1&descriptionEditable=The%20GitHub%20Emojis%20repository%20is%20your%20go-to%20resource%20for%20discovering%20and%20using%20a%20wide%20range%20of%20emojis%20on%20GitHub.%20Explore%20emojis%20%20file%20as%20per%20need&font=Jost&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+
 Welcome to the GitHub Emojis repository! 🎉
 
 This repository contains a handy guide to GitHub emojis in a markdown file. Feel free to use these emojis in your commit messages, issues, or pull requests to add some fun and expressiveness to your projects.
